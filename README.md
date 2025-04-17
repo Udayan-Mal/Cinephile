@@ -48,7 +48,27 @@ Cinephile is designed to make movie discovery fun and effortless. With a clean, 
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
-- React.js
+- Frontend: React.js
+
+
+
+Backend: Appwrite (for trending movies storage)
+
+
+
+Styling: Tailwind CSS
+
+
+
+API: The Movie Database (TMDb) API
+
+
+
+Build Tool: Vite
+
+
+
+Deployment: Vercel
 - Appwrite
 - Tailwind CSS
 
