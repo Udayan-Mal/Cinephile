@@ -3,7 +3,7 @@
 A modern movie browsing web application built with React.js, Appwrite, and Tailwind CSS. CineVibe allows users to explore trending movies, search through thousands of films, and enjoy a sleek, responsive interface powered by The Movie Database (TMDb) API. Perfect for movie enthusiasts and developers looking to learn full-stack development with modern technologies.
 
 
-📺 **Live Demo:** [Cinephile/](https://cinephile-virid.vercel.app/)
+📺 **Live Demo:** [Cinephile](https://cinephile-virid.vercel.app/)
 
 ---
 
@@ -15,7 +15,7 @@ A modern movie browsing web application built with React.js, Appwrite, and Tailw
 
 <div align="center">
   <br />
-      <img src="./screenshot.png" alt="App Screenshot">
+      <img src="public/screenshot.png" alt="App Screenshot">
     </a>
   <br />
   
