@@ -1,12 +1,21 @@
 # 🎬 Cinéphile
 
-A modern React web app to explore trending movies, search by title, and discover new flicks in style.
+A modern movie browsing web application built with React.js, Appwrite, and Tailwind CSS. CineVibe allows users to explore trending movies, search through thousands of films, and enjoy a sleek, responsive interface powered by The Movie Database (TMDb) API. Perfect for movie enthusiasts and developers looking to learn full-stack development with modern technologies.
 
+
+📺 **Live Demo:** [Cinephile/](https://cinephile-virid.vercel.app/)
+
+---
+
+## 🖼️ Preview
+
+![Cinéphile Logo](public/favicon.png)
+
+---
 
 <div align="center">
   <br />
-    <a href="https://www.youtube.com/watch?v=dCLhUialKPQ" target="_blank">
-      <img src="https://github.com/user-attachments/assets/acb3c1e6-04ef-4787-a602-f16abe9a04fe" alt="Project Banner">
+      <img src="./screenshot.png" alt="App Screenshot">
     </a>
   <br />
   
@@ -31,13 +40,7 @@ A modern React web app to explore trending movies, search by title, and discover
 6. 🔗 [Assets](#links)
 7. 🚀 [More](#more)
 
-## 🚨 Tutorial
 
-This repository contains the code corresponding to an in-depth tutorial available on our YouTube channel, <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a>.
-
-If you prefer visual learning, this is the perfect resource for you. Follow our tutorial to learn how to build projects like these step-by-step in a beginner-friendly manner!
-
-<a href="https://www.youtube.com/watch?v=dCLhUialKPQ" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/1736fca5-a031-4854-8c09-bc110e3bc16d" /></a>
 
 ## <a name="introduction">🤖 Introduction</a>
 
