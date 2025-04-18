@@ -114,7 +114,10 @@ VITE_APPWRITE_DATABASE_ID=your_appwrite_database_id
 VITE_APPWRITE_COLLECTION_ID=your_appwrite_collection_id
 ```
 
-- **[TMDb API Key:](https://developer.themoviedb.org/reference/intro/getting-started)**
+- **[TMDb API Key:](https://developer.themoviedb.org/reference/intro/getting-started)** Sign up at TMDb and generate an API token.
+
+
+- **[Appwrite Credentials:](https://developer.themoviedb.org/reference/intro/getting-started)** Create a project in Appwrite, set up a database and collection, and copy the IDs.
 
 Replace the placeholder values with your actual **[TheMovieDatabase API](https://developer.themoviedb.org/reference/intro/getting-started)** and **[Appwrite](https://apwr.dev/JSM050)** credentials. You can obtain these credentials by signing up on the [TheMovieDatabase](https://developer.themoviedb.org/reference/intro/getting-started) and creating a new project on the [Appwrite](https://apwr.dev/JSM050)
 
