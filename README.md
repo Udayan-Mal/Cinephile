@@ -90,13 +90,13 @@ Ensure you have the following installed:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/JavaScript-Mastery-Pro/moodflix.git
-cd moodflix
+git clone https://github.com/Udayan-Mal/Cinephile.git
+cd cinephile
 ```
 
 **Installation**
 
-Install the project dependencies using npm:
+Install the project dependencies:
 
 ```bash
 npm install
