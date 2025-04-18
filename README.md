@@ -60,15 +60,18 @@ Cinephile is designed to make movie discovery fun and effortless. With a clean, 
 👉 **Browse Movies**: Explore a wide range of movies sorted by popularity.
 
 👉 **Search Movies**:  Quickly find movies by title using a debounced search input.
-👉 **Trending Movies**: View the most popular search terms, powered by Appwrite.
+
+👉 **🎥Trending Movies**: View the most popular search terms, powered by Appwrite.
 
 👉 **💫Responsive Design**: Seamlessly works on mobile, tablet, and desktop devices.
 
-👉 **Modern UI/UX**: A sleek and user-friendly interface designed for a great experience.
+👉 **Modern UI/UX**: Clean, visually appealing interface with Tailwind CSS.
+
+👉 **Error Handling**: Graceful handling of API errors and loading states.
 
 👉 **Responsiveness**: Fully responsive design that works seamlessly across devices.
 
-and many more, including code architecture and reusability
+- 📊 Search analytics via Appwrite
 
 ## <a name="quick-start">🤸 Quick Start</a>
 
