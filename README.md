@@ -57,11 +57,12 @@ Cinephile is designed to make movie discovery fun and effortless. With a clean, 
 
 ## <a name="features">🔋 Features</a>
 
-👉 **Browse All Movies**: Explore a wide range of movies available on the platform.
+👉 **Browse Movies**: Explore a wide range of movies sorted by popularity.
 
-👉 **Search Movies**: Easily search for specific movies using a search function.
+👉 **Search Movies**:  Quickly find movies by title using a debounced search input.
+👉 **Trending Movies**: View the most popular search terms, powered by Appwrite.
 
-👉 **Trending Movies Algorithm**: Displays trending movies based on a dynamic algorithm.
+👉 **💫Responsive Design**: Seamlessly works on mobile, tablet, and desktop devices.
 
 👉 **Modern UI/UX**: A sleek and user-friendly interface designed for a great experience.
 
