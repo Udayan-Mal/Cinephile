@@ -71,6 +71,8 @@ Cinephile is designed to make movie discovery fun and effortless. With a clean, 
 
 👉 **Responsiveness**: Fully responsive design that works seamlessly across devices.
 
+- ⚡ Real-time movie data from TMDB
+
 - 📊 Search analytics via Appwrite
 
 ## <a name="quick-start">🤸 Quick Start</a>
