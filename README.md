@@ -123,11 +123,13 @@ VITE_APPWRITE_COLLECTION_ID=your_appwrite_collection_id
 
 **Running the Project**
 
+Start the development server:
+
 ```bash
 npm run dev
 ```
 
-Open [http://localhost:5173](http://localhost:5173) in your browser to view the project.
+Open [http://localhost:5173](http://localhost:5173)  in your browser to view the app.
 
 ## <a name="snippets">🕸️ Snippets</a>
 
