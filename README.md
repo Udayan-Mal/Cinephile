@@ -131,6 +131,79 @@ npm run dev
 
 Open [http://localhost:5173](http://localhost:5173)  in your browser to view the app.
 
+---
+
+## 🌐 Environment Variables
+
+The following environment variables are required in the `.env` file:
+
+| Variable | Description |
+| --- | --- |
+| `VITE_TMDB_API_KEY` | TMDb API token for fetching movie data |
+| `VITE_APPWRITE_PROJECT_ID` | Appwrite project ID |
+| `VITE_APPWRITE_DATABASE_ID` | Appwrite database ID for storing search data |
+| `VITE_APPWRITE_COLLECTION_ID` | Appwrite collection ID for trending searches |
+
+Ensure these are correctly configured to avoid API or backend errors.
+
+---
+
+## 📁 Project Structure
+
+```bash
+cinephile/
+├── public/                  # Static assets (images, SVGs)
+│   ├── hero-bg.png
+│   ├── hero.png
+│   ├── logo.png
+│   ├── no-movie.png
+│   ├── search.svg
+│   ├── star.svg
+│   ├── screenshot.png       # Webpage screenshot
+├── src/                     # Source code
+│   ├── assets/              # Additional assets
+│   ├── components/          # React components
+│   │   ├── MovieCard.jsx
+│   │   ├── Search.jsx
+│   │   ├── Spinner.jsx
+│   ├── App.css              # App-specific styles
+│   ├── App.jsx              # Main app component
+│   ├── appwrite.js          # Appwrite configuration
+│   ├── index.css            # Global styles with Tailwind
+│   ├── main.jsx             # React entry point
+├── .env                     # Environment variables
+├── .gitignore               # Files to ignore in Git
+├── index.html               # HTML template
+├── package.json             # Project metadata and dependencies
+├── vite.config.js           # Vite configuration
+└── README.md                # This file
+```
+
+---
+
+## 🤝 Contributing
+
+We welcome contributions! To contribute:
+
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature/your-feature`).
+3. Make your changes and commit (`git commit -m 'Add your feature'`).
+4. Push to the branch (`git push origin feature/your-feature`).
+5. Open a pull request.
+
+Please ensure your code follows the project’s style guidelines and includes tests where applicable.
+
+---
+
+## 📜 License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+---
+
+Enjoy exploring movies with **Cinephile**! 🎬 If you have questions or need help, reach out via our Discord community or open an issue on GitHub.
+
+
 ## <a name="snippets">🕸️ Snippets</a>
 
 <details>
