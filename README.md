@@ -201,6 +201,6 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ---
 
-Enjoy exploring movies with **Cinephile**! 🎬 If you have questions or need help, reach out via our Discord community or open an issue on GitHub.
+Enjoy exploring movies with **Cinephile**! 
 
 
