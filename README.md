@@ -39,7 +39,7 @@ A modern movie browsing web application built with React.js, Appwrite, and Tailw
 5. Environment Variables
 6. Project Structure
 7. Contributing
-- License
+8. License
 
 
 
