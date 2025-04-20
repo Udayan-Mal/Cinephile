@@ -36,8 +36,8 @@ A modern movie browsing web application built with React.js, Appwrite, and Tailw
 2. ⚙️ [Tech Stack](#tech-stack)
 3. 🔋 [Features](#features)
 4. 🤸 [Quick Start](#quick-start)
-- Environment Variables
-- Project Structure
+5. Environment Variables
+6. Project Structure
 - Contributing
 - License
 
