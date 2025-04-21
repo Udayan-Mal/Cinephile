@@ -152,7 +152,7 @@ Ensure these are correctly configured to avoid API or backend errors.
 ---
 
 ## 
-## <a name="tech-stack">📁 Project Structure</a>
+## <a name="project-structure">📁 Project Structure</a>
 
 ```bash
 cinephile/
