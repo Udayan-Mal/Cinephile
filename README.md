@@ -37,7 +37,7 @@ A modern movie browsing web application built with React.js, Appwrite, and Tailw
 3. 🔋 [Features](#features)
 4. 🤸 [Quick Start](#quick-start)
 5. 🌐 [Environment Variables](#environment-variables)
-6. Project Structure
+6. [Project Structure](#project-structure)
 7. Contributing
 8. License
 
@@ -151,7 +151,8 @@ Ensure these are correctly configured to avoid API or backend errors.
 
 ---
 
-## 📁 Project Structure
+## 
+## <a name="tech-stack">📁 Project Structure</a>
 
 ```bash
 cinephile/
