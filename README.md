@@ -185,7 +185,7 @@ cinephile/
 
 ---
 
-## 🤝 Contributing
+
 ## <a name="#contributing">🤝 Contributing</a>
 
 We welcome contributions! To contribute:
