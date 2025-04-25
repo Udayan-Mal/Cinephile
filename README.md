@@ -201,7 +201,7 @@ Please ensure your code follows the project’s style guidelines and includes te
 ---
 
 
-## <a name="introduction">📜 License</a>
+## <a name="license">📜 License</a>
 
 This project is licensed under the MIT License. See the LICENSE file for details.
 
