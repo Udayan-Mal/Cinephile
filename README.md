@@ -200,8 +200,8 @@ Please ensure your code follows the project’s style guidelines and includes te
 
 ---
 
-## 📜 License
-## <a name="introduction">🤖 Introduction</a>
+## 
+## <a name="introduction">📜 License</a>
 
 This project is licensed under the MIT License. See the LICENSE file for details.
 
